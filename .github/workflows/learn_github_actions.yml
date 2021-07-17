@@ -2,7 +2,7 @@ name: learn-github-actions
 on: [push]
 jobs:
   build-and-runs:
-  name: Build and Run
+    name: Build and Run
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v1
