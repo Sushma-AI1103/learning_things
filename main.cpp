@@ -7,5 +7,6 @@ int main()
     long long a = 5 ,b = 10;
     cout << multiply(a,b) << "\n" ;
     cout << factorial(a) << "\n" ;
+    cout << "Hello !!!\n" ;
     print();
 }
